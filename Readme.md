@@ -21,5 +21,5 @@ Folder             | Description
 
 PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------|----------------|----------------|---------------|-------------|--------------
-`265101` | ` Bodanapu Venkata Hanumantha Reddy`  | All |  No     |  No   | 19  |19    
+`265101` | ` Sampat Singh`| All |  No     |  No   | 19  |19    
   `SME`  | `Prithvi Shekhar` | Template with folder strucure | No     |  No   | No   |No     
